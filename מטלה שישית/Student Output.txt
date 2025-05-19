@@ -1,8 +1,0 @@
-Students created successfully.
-Grades updated successfully for student1.
-Grades updated successfully for student2.
-Expected error when updating an existing grade: Grade for this course already exists
-Student1's grade for Math: 85
-Expected error when retrieving a non-existent grade: Course not found
-Courses not taken by student1: ['Science', 'Art']
-Courses where student2 has better grades: ['Math']
