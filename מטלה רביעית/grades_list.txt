@@ -1,0 +1,100 @@
+395803117 Linear_Algebra 76 Modern_Algebra 48 Digital_Systems 48 Hedva_1 75 English 35 Philosophy 49 Intro_to_computer_science 93
+037583491 Intro_to_computer_science 70 Modern_Algebra 52 Discrete_Math 83 History 49 Hedva_1 52
+071631356 Philosophy 64 Intro_to_computer_science 72 English 45 Digital_Systems 55 Hedva_1 41 Modern_Algebra 86 Discrete_Math 84 Linear_Algebra 52
+896541671 Modern_Algebra 51 Hedva_1 92 Philosophy 59 Digital_Systems 62 History 68 Linear_Algebra 47
+962060253 Hedva_1 79 Discrete_Math 69 Philosophy 63 Digital_Systems 76 Modern_Algebra 64 Intro_to_computer_science 52 Linear_Algebra 91 English 92
+322039564 Linear_Algebra 59 Philosophy 83 Discrete_Math 45 Modern_Algebra 93 History 36 Digital_Systems 74
+588546186 Philosophy 51 English 77 Hedva_1 100 Digital_Systems 97 History 75 Discrete_Math 39 Modern_Algebra 62 Intro_to_computer_science 87
+818505163 Modern_Algebra 82 Discrete_Math 75 History 93 English 52 Digital_Systems 39 Philosophy 39 Linear_Algebra 76
+441488585 Hedva_1 71 English 70 Intro_to_computer_science 67 Discrete_Math 40 Philosophy 73 Digital_Systems 90 History 57 Linear_Algebra 78
+973720257 Discrete_Math 91 Philosophy 78 Linear_Algebra 75 Intro_to_computer_science 83 English 62
+246246946 Discrete_Math 49 Intro_to_computer_science 92 History 70 English 56 Hedva_1 67 Digital_Systems 77
+067373391 English 46 Linear_Algebra 94 Discrete_Math 39 Modern_Algebra 53 Digital_Systems 94 Philosophy 86 History 34
+649010458 Modern_Algebra 65 Digital_Systems 74 Linear_Algebra 50 Philosophy 82 History 62
+930209761 English 49 Discrete_Math 37 Intro_to_computer_science 87 Digital_Systems 59 Hedva_1 48 Philosophy 71
+734694168 Linear_Algebra 94 Modern_Algebra 58 Philosophy 77 Intro_to_computer_science 66 Hedva_1 85
+174361412 Intro_to_computer_science 55 Linear_Algebra 92 Modern_Algebra 92 Discrete_Math 55 Philosophy 62 Hedva_1 45
+166378186 History 33 Philosophy 93 English 59 Modern_Algebra 71 Intro_to_computer_science 85 Discrete_Math 44 Digital_Systems 40
+810747153 English 97 Philosophy 88 Linear_Algebra 35 Modern_Algebra 43 Digital_Systems 57
+230108802 History 66 English 81 Digital_Systems 80 Linear_Algebra 49 Discrete_Math 71
+301806084 Discrete_Math 43 Digital_Systems 77 Linear_Algebra 90 Hedva_1 87 English 74 History 40
+480530466 Digital_Systems 86 Philosophy 39 Hedva_1 97 Intro_to_computer_science 52 Discrete_Math 71
+856602984 Modern_Algebra 90 Philosophy 54 Digital_Systems 47 Intro_to_computer_science 91 Hedva_1 78 History 65 Linear_Algebra 40 Discrete_Math 91
+710367113 Hedva_1 47 History 48 Discrete_Math 75 Intro_to_computer_science 56 English 80
+760441923 Discrete_Math 90 History 56 English 91 Digital_Systems 76 Modern_Algebra 81 Hedva_1 93 Intro_to_computer_science 57
+803092611 Philosophy 82 Discrete_Math 84 English 36 Linear_Algebra 37 Digital_Systems 65 Modern_Algebra 83 Intro_to_computer_science 60 History 71
+505614973 Hedva_1 62 Modern_Algebra 76 English 85 History 53 Intro_to_computer_science 83
+927131461 English 76 Digital_Systems 57 Philosophy 40 Modern_Algebra 66 History 60 Linear_Algebra 41 Hedva_1 86
+883985076 Digital_Systems 76 History 75 Linear_Algebra 64 English 100 Discrete_Math 47
+573225290 Linear_Algebra 92 History 50 Modern_Algebra 91 Digital_Systems 67 English 33
+866211214 Digital_Systems 83 Intro_to_computer_science 61 Modern_Algebra 79 Linear_Algebra 86 Hedva_1 86 Philosophy 87 Discrete_Math 100 English 55
+748438846 English 86 Modern_Algebra 40 Discrete_Math 40 Linear_Algebra 82 Philosophy 80 History 84 Digital_Systems 72
+255918224 Intro_to_computer_science 60 Linear_Algebra 64 Hedva_1 92 English 75 Modern_Algebra 51 History 85
+563892727 History 35 Philosophy 67 Modern_Algebra 83 Digital_Systems 95 English 68
+005075246 Hedva_1 46 Philosophy 84 History 74 Modern_Algebra 52 Linear_Algebra 55 Discrete_Math 67
+154996249 English 44 Philosophy 77 Discrete_Math 93 Linear_Algebra 90 Intro_to_computer_science 44 History 48 Modern_Algebra 90 Hedva_1 32
+348895603 Hedva_1 76 Linear_Algebra 44 English 62 History 53 Intro_to_computer_science 45 Digital_Systems 65
+247540434 Modern_Algebra 55 Intro_to_computer_science 61 Discrete_Math 67 English 37 Hedva_1 66 Linear_Algebra 42
+329018146 Digital_Systems 75 Hedva_1 60 Linear_Algebra 99 Intro_to_computer_science 40 Discrete_Math 53 Philosophy 39
+587596744 History 86 Hedva_1 45 Linear_Algebra 91 Intro_to_computer_science 94 Philosophy 38 Modern_Algebra 53 Digital_Systems 48
+049420322 Modern_Algebra 91 English 90 Hedva_1 65 Digital_Systems 66 Discrete_Math 34 Philosophy 57 Intro_to_computer_science 65 Linear_Algebra 92
+206292490 Digital_Systems 68 Intro_to_computer_science 59 English 39 Hedva_1 60 Linear_Algebra 88 Philosophy 52 History 57
+855913361 Intro_to_computer_science 70 Digital_Systems 81 Modern_Algebra 52 Philosophy 80 Linear_Algebra 73 History 47 Discrete_Math 56 Hedva_1 67
+709051228 Modern_Algebra 53 History 66 Linear_Algebra 47 Philosophy 93 Hedva_1 40 Intro_to_computer_science 78 Discrete_Math 76 Digital_Systems 53
+393388637 Linear_Algebra 88 History 93 Modern_Algebra 66 Digital_Systems 53 Philosophy 68
+624961780 English 70 Modern_Algebra 72 Discrete_Math 35 Linear_Algebra 58 Digital_Systems 69 History 84 Hedva_1 60 Intro_to_computer_science 55
+788205319 Hedva_1 43 Digital_Systems 43 Linear_Algebra 39 Modern_Algebra 61 Philosophy 41 English 63 History 74
+024049497 Philosophy 42 Digital_Systems 95 Linear_Algebra 59 Hedva_1 59 Intro_to_computer_science 52 English 58 Modern_Algebra 91 History 89
+937719295 Philosophy 43 Intro_to_computer_science 47 English 93 Discrete_Math 39 Modern_Algebra 48
+492855289 History 75 Discrete_Math 97 Digital_Systems 79 English 56 Intro_to_computer_science 63 Modern_Algebra 79
+567666593 Hedva_1 58 English 76 History 42 Linear_Algebra 56 Digital_Systems 42 Modern_Algebra 56 Philosophy 86
+300366514 Hedva_1 74 Discrete_Math 49 Linear_Algebra 89 Digital_Systems 78 English 83 History 83
+657595328 Intro_to_computer_science 45 Hedva_1 60 Modern_Algebra 91 English 94 Digital_Systems 82
+888641176 Discrete_Math 79 Hedva_1 93 Linear_Algebra 49 Modern_Algebra 52 Digital_Systems 91 English 86 Intro_to_computer_science 90
+925250785 History 74 Hedva_1 41 Linear_Algebra 82 Digital_Systems 45 Philosophy 64 English 59 Intro_to_computer_science 93 Discrete_Math 63
+421328425 Linear_Algebra 47 Digital_Systems 53 History 54 Philosophy 44 English 57 Intro_to_computer_science 64
+304387686 Philosophy 87 Discrete_Math 44 Digital_Systems 71 Modern_Algebra 63 Linear_Algebra 39 History 32 English 41 Intro_to_computer_science 59
+743861342 Digital_Systems 56 Intro_to_computer_science 89 Modern_Algebra 92 Hedva_1 72 Philosophy 64 Discrete_Math 36 History 55
+862437567 Hedva_1 47 Intro_to_computer_science 86 History 77 English 56 Philosophy 81 Linear_Algebra 63 Digital_Systems 76
+818667609 Linear_Algebra 55 Philosophy 66 Discrete_Math 33 Modern_Algebra 74 Intro_to_computer_science 90 History 81 Hedva_1 71 Digital_Systems 87
+329693535 History 67 English 85 Discrete_Math 88 Digital_Systems 78 Linear_Algebra 53 Philosophy 48 Hedva_1 71
+928955344 Modern_Algebra 92 Hedva_1 59 Discrete_Math 67 Philosophy 79 Intro_to_computer_science 78 Linear_Algebra 57 History 69 English 42
+960028899 English 90 Intro_to_computer_science 83 Discrete_Math 41 Digital_Systems 75 Hedva_1 72
+757995897 Intro_to_computer_science 36 Hedva_1 41 Linear_Algebra 86 English 42 Modern_Algebra 86
+712731089 Digital_Systems 35 Hedva_1 57 Linear_Algebra 49 Discrete_Math 62 Intro_to_computer_science 65 English 70 History 45
+860798252 Linear_Algebra 83 Intro_to_computer_science 44 Hedva_1 60 Discrete_Math 69 Modern_Algebra 45
+589828218 Modern_Algebra 84 Intro_to_computer_science 93 English 70 Discrete_Math 85 Philosophy 42 Linear_Algebra 56 Hedva_1 47
+101175158 Digital_Systems 73 Linear_Algebra 68 Discrete_Math 86 English 90 Philosophy 41
+346276904 Digital_Systems 68 Modern_Algebra 67 English 77 Philosophy 84 Discrete_Math 67 Intro_to_computer_science 86
+421999153 Hedva_1 69 Philosophy 48 Digital_Systems 49 History 96 Modern_Algebra 53 Linear_Algebra 81 Intro_to_computer_science 82
+108154062 Philosophy 59 Hedva_1 46 Linear_Algebra 40 Modern_Algebra 86 Discrete_Math 89 Intro_to_computer_science 85 English 47 Digital_Systems 41
+594115907 Intro_to_computer_science 90 Philosophy 61 Linear_Algebra 61 Digital_Systems 54 Modern_Algebra 83 Hedva_1 39 Discrete_Math 60 History 94
+965402037 Hedva_1 49 Intro_to_computer_science 39 Linear_Algebra 72 Philosophy 87 Modern_Algebra 83 English 37 History 88
+930707469 Modern_Algebra 75 Philosophy 97 History 71 Linear_Algebra 73 Intro_to_computer_science 59 Digital_Systems 77 Hedva_1 66 Discrete_Math 59
+621062358 Intro_to_computer_science 60 Linear_Algebra 36 Digital_Systems 40 Modern_Algebra 81 Philosophy 84 Hedva_1 65 Discrete_Math 40 History 78
+510470923 Hedva_1 88 Digital_Systems 74 Intro_to_computer_science 51 Discrete_Math 35 Philosophy 51
+061726551 Intro_to_computer_science 70 Discrete_Math 57 English 47 Modern_Algebra 92 Hedva_1 54
+918636041 Intro_to_computer_science 65 Discrete_Math 62 Philosophy 80 Hedva_1 80 Digital_Systems 94
+304722394 Digital_Systems 41 Discrete_Math 76 English 55 Philosophy 51 Intro_to_computer_science 50 History 90
+545104431 History 88 Intro_to_computer_science 83 Linear_Algebra 81 Digital_Systems 62 English 57 Discrete_Math 45
+452872599 Philosophy 69 Modern_Algebra 76 History 47 Intro_to_computer_science 47 Discrete_Math 64 Linear_Algebra 62 Digital_Systems 44 English 40
+229874691 Modern_Algebra 64 Linear_Algebra 77 Discrete_Math 74 Hedva_1 62 History 49 English 94 Digital_Systems 86 Philosophy 50
+990109882 Linear_Algebra 86 Intro_to_computer_science 67 History 64 Modern_Algebra 86 Hedva_1 69 Philosophy 58
+961874806 Intro_to_computer_science 97 Modern_Algebra 64 Hedva_1 62 History 64 Digital_Systems 84
+511595535 Philosophy 75 English 39 Hedva_1 45 Intro_to_computer_science 77 Linear_Algebra 87 Modern_Algebra 73 Digital_Systems 54 History 79
+052540167 Discrete_Math 48 English 84 Philosophy 84 History 49 Digital_Systems 62
+592294564 Digital_Systems 95 Modern_Algebra 89 Linear_Algebra 40 Hedva_1 81 History 60 Discrete_Math 46 Philosophy 41
+495928022 Discrete_Math 75 English 59 Hedva_1 51 Intro_to_computer_science 44 History 81
+449512127 Linear_Algebra 34 Philosophy 60 Modern_Algebra 53 History 46 Discrete_Math 66
+022255247 Intro_to_computer_science 71 Philosophy 89 Linear_Algebra 38 History 91 Modern_Algebra 71 Digital_Systems 37
+290786244 Discrete_Math 45 Digital_Systems 40 Philosophy 75 Modern_Algebra 40 Hedva_1 40 Intro_to_computer_science 46 History 74 Linear_Algebra 70
+366278058 Modern_Algebra 48 Digital_Systems 85 Discrete_Math 72 History 67 Philosophy 39 Hedva_1 47
+143214668 Intro_to_computer_science 64 Linear_Algebra 94 English 54 Digital_Systems 79 Philosophy 40 Modern_Algebra 75 Hedva_1 87
+321930433 Intro_to_computer_science 67 History 44 English 44 Digital_Systems 72 Philosophy 49
+163727387 History 48 Intro_to_computer_science 71 Philosophy 58 Hedva_1 88 Digital_Systems 47 Modern_Algebra 32 Linear_Algebra 72 Discrete_Math 76
+370964972 Digital_Systems 94 Hedva_1 40 Philosophy 99 History 57 Linear_Algebra 70
+926930681 Intro_to_computer_science 55 Linear_Algebra 66 Hedva_1 67 History 44 Discrete_Math 37 Modern_Algebra 30
+109680579 Discrete_Math 56 Hedva_1 39 Intro_to_computer_science 62 Modern_Algebra 48 History 57 Digital_Systems 87 Philosophy 42 Linear_Algebra 44
+709811107 Linear_Algebra 81 Modern_Algebra 92 Hedva_1 51 History 61 English 49 Intro_to_computer_science 81 Digital_Systems 37 Discrete_Math 59
+587264445 Modern_Algebra 55 English 41 Hedva_1 67 Linear_Algebra 92 Discrete_Math 71 Intro_to_computer_science 80
+092934900 Linear_Algebra 82 English 90 Philosophy 61 Digital_Systems 78 Modern_Algebra 53 Discrete_Math 56 Hedva_1 92 Intro_to_computer_science 74

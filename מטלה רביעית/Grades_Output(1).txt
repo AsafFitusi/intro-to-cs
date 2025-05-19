@@ -1,0 +1,29 @@
+My name: Inbal Ronen
+
+Best student: Rolando Hall, average: 79.62
+
+courses:
+Digital Systems, Discrete Math, English, Hedva 1, History, Intro to computer science, Linear Algebra, Modern Algebra, Philosophy
+
+Digital Systems:
+average grade: 66.90, maximum grade: 97, Obtained by Ross Reid
+Discrete Math:
+average grade: 61.87, maximum grade: 100, Obtained by Rolando Hall
+English:
+average grade: 64.26, maximum grade: 100, Obtained by Andre Stokes
+Hedva 1:
+average grade: 63.92, maximum grade: 100, Obtained by Ross Reid
+History:
+average grade: 64.57, maximum grade: 96, Obtained by Gustavo Dunn
+Intro to computer science:
+average grade: 68.46, maximum grade: 97, Obtained by Ricky Griffin
+Linear Algebra:
+average grade: 66.29, maximum grade: 99, Obtained by Emma Ruiz
+Modern Algebra:
+average grade: 68.76, maximum grade: 93, Obtained by Delia Owen
+Philosophy:
+average grade: 64.80, maximum grade: 99, Obtained by Opal Adkins
+
+Errors:
+441488585 does not exist. Removed from grades list.
+860798252 does not exist. Removed from grades list.
